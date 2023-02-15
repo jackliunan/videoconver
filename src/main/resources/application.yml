@@ -1,0 +1,9 @@
+server:
+  port: 8033
+aws:
+  s3:
+    access_key_id: AKIAQ3QA3CEDOT52MP7P
+    secret_key_id: WGraAYTnZbUhGIJmVwoXhQrC/vO1VhRVkL4qERld
+    bucket_name: mike.yu.vedio
+    mcRoleARN: arn:aws:iam::059057574150:role/tutorial-mediaconvert-role
+
